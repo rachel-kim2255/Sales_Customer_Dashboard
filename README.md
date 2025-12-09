@@ -8,7 +8,15 @@ Project to create interactive dashboards using Tableau.
 📚 Individual Project
 <br>
 
-👉 **[Dashboard Link](https://public.tableau.com/views/ProjectSalesCustmomerDashboard/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+## 👉 **[Dashboard Link](https://public.tableau.com/views/ProjectSalesCustmomerDashboard/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+
+---
+
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/abe154a7-434e-475c-a3eb-b55fd2d83a3e" />
+
+<img width="1199" height="800" alt="image" src="https://github.com/user-attachments/assets/a5ef1291-f58f-4933-b5fc-8fbdf1a014f3" />
+
 
 
 ---
