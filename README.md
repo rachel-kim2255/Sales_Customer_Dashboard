@@ -1,4 +1,4 @@
-# 📊 Visualization: Sales, Customer Dashboard
+## 📊 Visualization: Sales, Customer Dashboard
 **🛠️ Tableau**  
 - **Goal**: Developed a comprehensive Tableau dashboard to analyze YoY sales performance and customer behavioral trends.  
 - **Sales Dashboard**: Focused on KPI monitoring (Sales, Profit, Quantity) with monthly/weekly trend analysis and product subcategory comparisons.  
