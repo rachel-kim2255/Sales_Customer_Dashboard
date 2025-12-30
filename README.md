@@ -1,6 +1,9 @@
 # 📊 Visualization: Sales, Customer Dashboard
 **🛠️ Tableau**  
-Project to create interactive dashboards using Tableau.
+- **Goal**: Developed a comprehensive Tableau dashboard to analyze YoY sales performance and customer behavioral trends.  
+- **Sales Dashboard**: Focused on KPI monitoring (Sales, Profit, Quantity) with monthly/weekly trend analysis and product subcategory comparisons.  
+- **Customer Dashboard**: Analyzed customer segments, loyalty (distribution by order count), and identified top-tier profitable customers.  
+- **Key Features**: Integrated dynamic year filters, seamless dashboard navigation, and multi-dimensional filters (Category, Location) for interactive data exploration.
 <br>
 
 📎 Rachel Kim  
